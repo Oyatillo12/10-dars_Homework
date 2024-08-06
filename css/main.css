@@ -1,0 +1,75 @@
+body{
+    padding-top: 100px;
+}
+
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.grey{
+    background-color: grey;
+}
+.pink{
+    background-color: pink;
+}
+.olive{
+    background-color: olive;
+}
+.white{
+    background-color: white;
+}
+.purple{
+    background-color: purple;
+}
+.brown{
+    background-color: brown;
+}
+.red{
+    background-color: red;
+}
+.h1title{
+    font-size: 52px;
+    text-align: center;
+    display: block;
+}
+.title{
+    font-size: 52px;
+    text-align: center;
+    display: none;
+}
+.block{
+    display: block;
+}
+.none{
+    display: none;
+}
+
+div{
+  margin: 0 auto;
+  width: 350px;  
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+button{
+    width: 100%;
+    display: block;
+    padding:20px 0;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    border-radius: 12px;
+    border: none;
+    background-color: yellowgreen;
+    font-weight: 600;
+    cursor: pointer;
+}
